@@ -45,10 +45,10 @@ git merge template/main
 ## Repository Structure
 
 Both repositories share the same structure:
-- `/.devcontainer` - Codespaces configuration
-- `/src` - React application source files
-- `/__images__` - Images and assets
-- `/translations` - Localized documentation
+- `.devcontainer/` - Codespaces configuration
+- `src/` - React application source files
+- `__images__/` - Images and assets
+- `translations/` - Localized documentation
 - Configuration files for ESLint, Prettier, and package management
 
 ## Keeping Your Fork Updated
